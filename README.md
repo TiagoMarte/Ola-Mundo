@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo!
  Primeiro repositório do curso GitHub
+
+Repositório criado em 2024.
